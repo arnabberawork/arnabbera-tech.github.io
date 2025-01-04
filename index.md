@@ -1,6 +1,5 @@
-# Arnab Bera | Aspiring AI Engineer
-
-## Specializing in AI & ML with Python | Microsoft Azure Certified | Integration Expert
+## Headline: 
+**Specializing in AI & ML with Python | Microsoft Azure & SoftwareAG Certified | Java WebMethods Integration BPM Consultant**
 
 ---
 
@@ -12,13 +11,13 @@
 
 ---
 
-## About Me
+## About Me {#about}
 
 As a technology professional with over 8 years of experience, I bring expertise in AI, ML, and Integration Technologies to solve complex business challenges. Currently, I am pursuing a master's in Machine Learning and Artificial Intelligence from IIIT Bangalore and Liverpool John Moores University.
 
 ---
 
-## Key Skills
+## Key Skills {#skills}
 
 - Python, Machine Learning, Data Science
 - Natural Language Processing, Neural Networks
@@ -27,7 +26,7 @@ As a technology professional with over 8 years of experience, I bring expertise 
 
 ---
 
-## AI/ML Project Portfolio
+## AI/ML Project Portfolio {#projects}
 
 - **[Automatic Ticket Classification](https://github.com/arnabberawork/Automatic-Ticket-Classification)**: NLP topic modeling to classify customer complaints.
 - **[Gesture Recognition for Smart TVs](https://github.com/arnabberawork/Gesture-Recognition-Project)**: CNN-based model for hands-free control.
@@ -35,7 +34,7 @@ As a technology professional with over 8 years of experience, I bring expertise 
 
 ---
 
-## Contact Me
+## Contact Me {#contact}
 
 - **Email**: [arnabbera.official@gmail.com](mailto:arnabbera.official@gmail.com)
 - **Mobile**: (+91)-8622016168

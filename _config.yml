@@ -1,6 +1,14 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Arnab Bera
+logo: /assets/img/logo.jpeg
+description: 
+  <p align="center">
+  <a href="https://github.com/arnabberawork/portfolio/blob/master/docs/Arnab%20Bera_Resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/arnabbera-tech/">LinkedIn</a> |
+  <a href="https://github.com/arnabberawork">GitHub</a>
+  
+  <br>   
+  AI Engineer | ML | Data Science | Python | API Integration
+  <br>
+  </p>
 show_downloads: true
-google_analytics:
 theme: jekyll-theme-minimal

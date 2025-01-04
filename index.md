@@ -1,6 +1,6 @@
 # Arnab Bera | Aspiring AI Engineer
 
-**Specializing in AI & ML with Python | Microsoft Azure Certified | Integration Expert**
+## Specializing in AI & ML with Python | Microsoft Azure Certified | Integration Expert
 
 ---
 
@@ -38,7 +38,7 @@ As a technology professional with over 8 years of experience, I bring expertise 
 ## Contact Me
 
 - **Email**: [arnabbera.official@gmail.com](mailto:arnabbera.official@gmail.com)
-- **LinkedIn**: [Arnab Bera](https://www.linkedin.com/in/arnabberatech)
+- **Mobile**: (+91)-8622016168
 
 ---
 

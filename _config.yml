@@ -1,6 +1,5 @@
 title: Arnab Bera
-logo: /assets/img/logo.jpg
-description: 
+description: >
   <p align="center">
   <a href="https://github.com/arnabberawork/arnabbera-tech.github.io/blob/master/pdf/Arnab%20Bera_Resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/arnabbera-tech/">LinkedIn</a> |
@@ -10,3 +9,21 @@ description:
   <br>
   </p>
 theme: jekyll-theme-minimal
+permalink: /
+markdown: kramdown
+logo: /assets/img/logo.jpg
+
+# Custom Styling
+sass:
+  style: compressed
+
+# Navigation Links
+links:
+  - title: About
+    url: /#about
+  - title: Skills
+    url: /#skills
+  - title: Projects
+    url: /#projects
+  - title: Contact
+    url: /#contact

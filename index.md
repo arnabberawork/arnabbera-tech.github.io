@@ -13,7 +13,9 @@
 
 ## About Me {#about}
 
-As a technology professional with over 8 years of experience, I bring expertise in AI, ML, and Integration Technologies to solve complex business challenges. Currently, I am pursuing a master's in Machine Learning and Artificial Intelligence from IIIT Bangalore and Liverpool John Moores University.
+With over 8 years of experience, I specialize in API integration and AI/ML, delivering innovative solutions for complex technical challenges. As an API and Integration Specialist, I have led large-scale projects, improving system interoperability and reducing deployment times.
+
+I design intelligent systems that automate workflows, enhance decision-making, and provide actionable insights. Passionate about optimization and innovation, I thrive at creating scalable, data-driven solutions that drive operational excellence and measurable business impact.
 
 ---
 

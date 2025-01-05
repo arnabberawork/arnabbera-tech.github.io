@@ -51,7 +51,7 @@ As a technology professional with over 8 years of experience, I bring expertise 
 
 - ### Medical Text Processing Case Study    
 
-<center><img src="assets/img/medical_text.webp" width="100%" ></center>
+<center><img src="assets/img/medical_text.jpg" width="100%" ></center>
 
   Custom Named Entity Recognition (NER) system to extract and categorize diseases and treatments from medical text.  
   **Topics Used**: Natural Language Processing (NLP), Named Entity Recognition (NER), spaCy, Python.  

@@ -19,10 +19,11 @@ As a technology professional with over 8 years of experience, I bring expertise 
 
 ## Key Skills {#skills}
 
-- Python, Machine Learning, Data Science
-- Natural Language Processing, Neural Networks
-- API Integration, Azure DevOps
-- WebMethods, Java, SQL
+- **AI & Machine Learning**: Python, Machine Learning, Neural Networks, Deep Learning, NLP, Generative AI (GANs, Transformer Models), Model Deployment
+- **Data Analysis**: Exploratory Data Analysis (EDA), Predictive Modeling, Data Visualization, Tablau
+- **Integration Technologies**: API Development & Integration, WebMethods, BPM, Java, UM, JMS
+- **Database**: Oracle, SQL
+- **Cloud & DevOps**: Azure DevOps, Cloud Computing
 
 ---
 

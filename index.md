@@ -57,7 +57,7 @@ I design intelligent systems that automate workflows, enhance decision-making, a
 
 An intelligent, agentic app that leverages the power of OpenAI, Crew, and Serper to help users easily research football statistics, gain player insights, and track league trends. This tool is designed to offer fast and efficient access to critical football data, empowering fans and analysts with up-to-date information on teams, players, and match performances.
 
-**Technologies Used**: OpenAI, Crew, Serper, Artificial Intelligence, Football Analytics, Data Visualization, Python.
+**Technologies Used**: OpenAI, Crew, Serper, Streamlit, Flask, Python.
 
 [![View on GitHub](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/arnabberawork/Football-Lens-Research-App)
 

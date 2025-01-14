@@ -7,7 +7,7 @@
 - [About](#about)
 - [Skills](#skills)
 - [Projects](#projects)
-- [Contact](#contact)
+- [Get In Touch](#get-in-touch)
 
 ---
 
@@ -131,7 +131,7 @@ An intelligent, agentic app that leverages the power of OpenAI, Crew, and Serper
 
 ---
 
-## Get In Touch
+## Get In Touch {#get-in-touch}
 
 Feel free to reach out to discuss collaboration opportunities, projects, or any other inquiries!
 

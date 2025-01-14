@@ -59,7 +59,9 @@ An intelligent, agentic app that leverages the power of OpenAI, Crew, and Serper
 
 **Technologies Used**: OpenAI, Crew, Serper, Streamlit, Flask, Python.
 
-[![View on GitHub](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/arnabberawork/Football-Lens-Research-App)
+<a href="https://github.com/arnabberawork/Football-Lens-Research-App" target="_blank">
+  <img src="https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey" />
+</a>
 
 <hr>
 

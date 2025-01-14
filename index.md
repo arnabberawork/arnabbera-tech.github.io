@@ -37,7 +37,9 @@ I design intelligent systems that automate workflows, enhance decision-making, a
 
   NLP topic modeling to classify customer complaints based on products and services for improved customer service in the financial sector.  
   **Topics Used**: Natural Language Processing (NLP), Topic Modeling, Scikit-learn, Python.  
-  [![View on GitHub](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/arnabberawork/Automatic-Ticket-Classification)
+  <a href="https://github.com/arnabberawork/Automatic-Ticket-Classification" target="_blank">
+    <img src="https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey" />
+  </a>
 
 <hr>
 
@@ -47,7 +49,9 @@ I design intelligent systems that automate workflows, enhance decision-making, a
 
   CNN-based gesture recognition system enabling hands-free control of smart TVs with five distinct gestures.  
   **Topics Used**: Convolutional Neural Networks (CNNs), Time-Series Data, OpenCV, Python.  
-  [![View on GitHub](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/arnabberawork/Gesture-Recognition-Project)
+  <a href="https://github.com/arnabberawork/Gesture-Recognition-Project" target="_blank">
+    <img src="https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey" />
+  </a>
 
 <hr>
 
@@ -71,7 +75,9 @@ An intelligent, agentic app that leverages the power of OpenAI, Crew, and Serper
 
   Custom Named Entity Recognition (NER) system to extract and categorize diseases and treatments from medical text.  
   **Topics Used**: Natural Language Processing (NLP), Named Entity Recognition (NER), spaCy, Python.  
-  [![View on GitHub](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/arnabberawork/Syntactic-Processing-Assignment)
+  <a href="https://github.com/arnabberawork/Syntactic-Processing-Assignment" target="_blank">
+    <img src="https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey" />
+  </a>
 
 <hr>
 
@@ -81,7 +87,9 @@ An intelligent, agentic app that leverages the power of OpenAI, Crew, and Serper
 
   Predictive model to analyze customer churn in the telecom sector, highlighting factors affecting retention.  
   **Topics Used**: Classification Models, Random Forest, EDA, Python.  
-  [![View on GitHub](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/arnabberawork/Telecom-Churn-Group-Case-Study)
+  <a href="https://github.com/arnabberawork/Telecom-Churn-Group-Case-Study" target="_blank">
+    <img src="https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey" />
+  </a>
 
 <hr>
 
@@ -91,7 +99,9 @@ An intelligent, agentic app that leverages the power of OpenAI, Crew, and Serper
 
   Deep learning-based model for classifying skin lesions as malignant or benign using medical image data.  
   **Topics Used**: Convolutional Neural Networks (CNNs), Image Augmentation, TensorFlow, Python.  
-  [![View on GitHub](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/arnabberawork/Melanoma-Detection-Assignment)
+  <a href="https://github.com/arnabberawork/Melanoma-Detection-Assignment" target="_blank">
+    <img src="https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey" />
+  </a>
 
 <hr>
 
@@ -101,7 +111,9 @@ An intelligent, agentic app that leverages the power of OpenAI, Crew, and Serper
 
   Analysis to identify the key variables contributing to loan defaults, providing insights for risk assessment.  
   **Topics Used**: Exploratory Data Analysis (EDA), Logistic Regression, Decision Trees, Python.  
-  [![View on GitHub](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/arnabberawork/LendingClubCaseStudy)
+  <a href="https://github.com/arnabberawork/LendingClubCaseStudy" target="_blank">
+    <img src="https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey" />
+  </a>
 
 <hr>
 
@@ -111,16 +123,22 @@ An intelligent, agentic app that leverages the power of OpenAI, Crew, and Serper
 
   Linear Regression model for a US bike-sharing provider to predict demand for efficient operations.  
   **Topics Used**: Linear Regression, Feature Engineering, Data Visualization, Python.  
-  [![View on GitHub](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/arnabberawork/BoomBikesSharingCaseStudy)
+  <a href="https://github.com/arnabberawork/BoomBikesSharingCaseStudy" target="_blank">
+    <img src="https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey" />
+  </a>
 
 <hr>
 
 ---
 
-## Contact Me {#contact}
+## Get In Touch
+
+Feel free to reach out to discuss collaboration opportunities, projects, or any other inquiries!
 
 - **Email**: [arnabbera.official@gmail.com](mailto:arnabbera.official@gmail.com)  
-- **Mobile**: (+91)-8622016168
+- **Mobile**: (+91)-8622016168  
+- **LinkedIn**: [View My Profile](https://www.linkedin.com/in/arnabberawork)  
+- **GitHub**: [Visit My GitHub](https://github.com/arnabberawork)
 
 ---
 

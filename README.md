@@ -1,6 +1,6 @@
-👋 **Hi, I'm Arnab Bera!**
-🎯 ***API and Integration Consultant | Generative and Agentic AI Enthusiast***
-# ✨ ***Specializing in AI & ML with Python | Microsoft Azure & SoftwareAG Certified | Java WebMethods Integration BPM Consultant*** ✨
+#👋 **Hi, I'm Arnab Bera!**
+## 🎯 ***API and Integration Consultant | Generative and Agentic AI Enthusiast***
+## ✨ ***Specializing in AI & ML with Python | Microsoft Azure & SoftwareAG Certified | Java WebMethods Integration BPM Consultant*** ✨
 
 ---
 

@@ -1,116 +1,128 @@
-# The Minimal theme
+👋 Hi, I'm Arnab Bera!
+🎯 API and Integration Specialist | Machine Learning Enthusiast
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
+# ✨ **Specializing in AI & ML with Python | Microsoft Azure & SoftwareAG Certified | Java WebMethods Integration BPM Consultant** ✨
 
-*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
+---
 
-![Thumbnail of Minimal](thumbnail.png)
+## 🌐 Navigation
+- [About](#about)
+- [Skills](#skills)
+- [Projects](#projects)
+- [Get In Touch](#get-in-touch)
 
-## Usage
+---
 
-To use the Minimal theme:
+## 🚀 About Me {#about}
 
-1. Add the following to your site's `_config.yml`:
+With over 8 years of experience, I specialize in API integration and AI/ML, delivering innovative solutions for complex technical challenges. As an API and Integration Specialist, I have led large-scale projects, improving system interoperability and reducing deployment times.
 
-    ```yml
-    remote_theme: pages-themes/minimal@v0.2.0
-    plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-    ```
+I design intelligent systems that automate workflows, enhance decision-making, and provide actionable insights. Passionate about optimization and innovation, I thrive at creating scalable, data-driven solutions that drive operational excellence and measurable business impact.
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
+---
 
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
+## 🔧 Key Skills {#skills}
 
-## Customizing
+- **AI & Machine Learning**: Python, Machine Learning, Neural Networks, Deep Learning, NLP, Generative AI (GANs, Transformer Models), Model Deployment
+- **Data Analysis**: Exploratory Data Analysis (EDA), Predictive Modeling, Data Visualization, Tableau
+- **Integration Technologies**: API Development & Integration, WebMethods, BPM, Java, UM, JMS
+- **Database**: Oracle, SQL
+- **Cloud & DevOps**: Azure DevOps, Cloud Computing
 
-### Configuration variables
+---
 
-Minimal will respect the following variables, if set in your site's `_config.yml`:
+## 🔄 AI/ML Project Portfolio {#projects}
 
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
-```
+### 🔹 Automatic Ticket Classification
 
-Additionally, you may choose to set the following optional variables:
+![Automatic Ticket Classification](assets/img/automatic_ticket_classification.webp)
 
-```yml
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
+NLP topic modeling to classify customer complaints based on products and services for improved customer service in the financial sector.  
+**Topics Used**: Natural Language Processing (NLP), Topic Modeling, Scikit-learn, Python.  
+[![Project Details](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/arnabberawork/Automatic-Ticket-Classification)
 
-### Stylesheet
+---
 
-If you'd like to add your own custom styles:
+### 🔹 Gesture Recognition for Smart TVs
 
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
+![Gesture Recognition for Smart TVs](assets/img/gesture_recognition.jpg)
 
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+CNN-based gesture recognition system enabling hands-free control of smart TVs with five distinct gestures.  
+**Topics Used**: Convolutional Neural Networks (CNNs), Time-Series Data, OpenCV, Python.  
+[![Project Details](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/arnabberawork/Gesture-Recognition-Project)
 
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
+---
 
-### Layouts
+### 🏆 Football Lens: AI-Powered Football Research App
 
-If you'd like to change the theme's HTML layout:
+![Football Lens](assets/img/football_lens.webp)
 
-1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/minimal/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html).
-2. For more extensive changes, [copy the original template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-3. Create a file called `/_layouts/default.html` in your site
-4. Paste the default layout content copied in the first step
-5. Customize the layout as you'd like
+An intelligent app leveraging OpenAI, Crew, and Serper for researching football statistics, player insights, and league trends. Offers fast access to critical football data for fans and analysts.
 
-### Customizing Google Analytics code
+**Technologies Used**: OpenAI, Crew, Serper, Streamlit, Flask, Python.  
+[![Project Details](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/arnabberawork/Football-Lens-Research-App)
 
-Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
+---
 
-### Overriding GitHub-generated URLs
+### 🔹 Medical Text Processing Case Study
 
-Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
+![Medical Text Processing](assets/img/medical_text.jpg)
 
-1. Look at [the template source](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
-2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
-    ```yml
-    github:
-      zip_url: http://example.com/download.zip
-      another_url: another value
-    ```
-3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
+Custom Named Entity Recognition (NER) system to extract and categorize diseases and treatments from medical text.  
+**Topics Used**: Natural Language Processing (NLP), Named Entity Recognition (NER), spaCy, Python.  
+[![Project Details](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/arnabberawork/Syntactic-Processing-Assignment)
 
-*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
+---
 
-For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
+### 🔹 Telecom Churn Group Case Study
 
-## Roadmap
+![Telecom Churn Case Study](assets/img/telecom_churn.webp)
 
-See the [open issues](https://github.com/pages-themes/minimal/issues) for a list of proposed features (and known issues).
+Predictive model to analyze customer churn in the telecom sector, highlighting factors affecting retention.  
+**Topics Used**: Classification Models, Random Forest, EDA, Python.  
+[![Project Details](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/arnabberawork/Telecom-Churn-Group-Case-Study)
 
-## Project philosophy
+---
 
-The Minimal theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+### 🔹 Melanoma Detection Case Study
 
-## Contributing
+![Melanoma Detection](assets/img/melanoma_detection.webp)
 
-Interested in contributing to Minimal? We'd love your help. Minimal is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
+Deep learning-based model for classifying skin lesions as malignant or benign using medical image data.  
+**Topics Used**: Convolutional Neural Networks (CNNs), Image Augmentation, TensorFlow, Python.  
+[![Project Details](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/arnabberawork/Melanoma-Detection-Assignment)
 
-### Previewing the theme locally
+---
 
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
+### 🔹 Lending Club Case Study
 
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/minimal`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+![Lending Club Case Study](assets/img/Lending_Club_Case_Study.webp)
 
-### Running tests
+Analysis to identify the key variables contributing to loan defaults, providing insights for risk assessment.  
+**Topics Used**: Exploratory Data Analysis (EDA), Logistic Regression, Decision Trees, Python.  
+[![Project Details](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/arnabberawork/LendingClubCaseStudy)
 
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+---
+
+### 🔹 BoomBikes Sharing Case Study
+
+![BoomBikes Sharing Case Study](assets/img/boom_bikes.webp)
+
+Linear Regression model for a US bike-sharing provider to predict demand for efficient operations.  
+**Topics Used**: Linear Regression, Feature Engineering, Data Visualization, Python.  
+[![Project Details](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/arnabberawork/BoomBikesSharingCaseStudy)
+
+---
+
+## 📢 Get In Touch {#get-in-touch}
+
+Feel free to reach out to discuss collaboration opportunities, projects, or any other inquiries!
+
+- **✉ Email**: [arnabbera.official@gmail.com](mailto:arnabbera.official@gmail.com)  
+- **📞 Mobile**: (+91)-8622016168  
+- **👤 LinkedIn**: [View My Profile](https://www.linkedin.com/in/arnabberawork)  
+- **💻 GitHub**: [Visit My GitHub](https://github.com/arnabberawork)
+
+---
+
+&copy; 2025 Arnab Bera. All rights reserved.

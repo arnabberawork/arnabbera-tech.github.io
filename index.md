@@ -31,6 +31,19 @@ I design intelligent systems that automate workflows, enhance decision-making, a
 
 ## AI/ML Project Portfolio {#projects}
 
+- ### AI-Powered Laptop Shopping Assistant
+
+<center><img src="assets/img/laptop-shop-assist.webp" width="100%" ></center>
+
+An intelligent chatbot designed to assist users in finding the best laptop based on their needs. It leverages OpenAI's GPT models to interact with users, gather requirements, and provide personalized laptop recommendations.
+
+**Topics Used**: OpenAI GPT, Flask, Streamlit, Python, Moderation API.
+<a href="https://github.com/arnabberawork/Laptop-Shop-Assist-AI" target="_blank">
+    <img src="https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey" />
+  </a>
+
+<hr>
+
 - ### Automatic Ticket Classification
 
 <center><img src="assets/img/automatic_ticket_classification.webp" width="100%" ></center>
